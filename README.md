@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)  
 ![Jupyter Notebook](https://img.shields.io/badge/Tool-Jupyter-orange?logo=jupyter&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Visualization-Tableau-blue?logo=tableau&logoColor=white)  
+![PowerBI](https://img.shields.io/badge/Visualization-PowerBI-yellow?logo=powerbi&logoColor=black)   
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)  
 
 ---
@@ -42,7 +42,7 @@ This project focuses on analyzing **global COVID-19 data** using **Python (Jupyt
 
 ## 📊 Dashboard Preview  
 
-![Dashboard Preview](Data/Dashboard preview.pdf) 
+![Dashboard Preview](https://github.com/chetan-c8/Covid19_Data_Analysis/blob/42600774e3e7a7981dc0f1e651be42d667a4413d/Data/Dashboard%20preview.pdf) 
 
 
 ---
@@ -65,6 +65,7 @@ This project focuses on analyzing **global COVID-19 data** using **Python (Jupyt
    ```bash
    pip install -r requirements.txt
 ture  
+
 
 
 
