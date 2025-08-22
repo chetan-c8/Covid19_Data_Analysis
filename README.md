@@ -42,9 +42,8 @@ This project focuses on analyzing **global COVID-19 data** using **Python (Jupyt
 
 ## 📊 Dashboard Preview  
 
-![Dashboard Preview](assets/dashboard_preview.png)  
-
-*(Add your Tableau dashboard screenshot here 📸)*  
+![Dashboard Preview]([assets/dashboard_preview.png](https://github.com/chetan-c8/Covid19_Data_Analysis/blob/6c117e9b43a62a53c05ce6642798029e7f31d59a/Data/Dashboard%20preview.pdf))  
+  
 
 ---
 
@@ -66,4 +65,5 @@ This project focuses on analyzing **global COVID-19 data** using **Python (Jupyt
    ```bash
    pip install -r requirements.txt
 ture  
+
 
