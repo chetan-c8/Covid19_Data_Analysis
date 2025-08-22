@@ -42,7 +42,7 @@ This project focuses on analyzing **global COVID-19 data** using **Python (Jupyt
 
 ## 📊 Dashboard Preview  
 
-![Dashboard Preview](https://github.com/chetan-c8/Sales-Insights-Data-Analysis-project/blob/070045f003c13e4ab747456e687520d488408af4/Dashboad%20preview.png) 
+![Dashboard Preview](Data/Dashboard preview.pdf) 
 
 
 ---
@@ -65,6 +65,7 @@ This project focuses on analyzing **global COVID-19 data** using **Python (Jupyt
    ```bash
    pip install -r requirements.txt
 ture  
+
 
 
 
