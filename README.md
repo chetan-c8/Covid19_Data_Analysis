@@ -43,7 +43,6 @@ This project focuses on analyzing **global COVID-19 data** using **Python (Jupyt
 ## 📊 Dashboard Preview  
  
 ![Dashboard Preview](https://github.com/chetan-c8/Covid19_Data_Analysis/blob/42600774e3e7a7981dc0f1e651be42d667a4413d/Data/Dashboard%20preview.pdf)
-![Dashboard Screenshot](https://github.com/chetan-c8/Covid19_Data_Analysis/blob/42600774e3e7a7981dc0f1e651be42d667a4413d/Data/Dashboard%20preview.pdf)
 
 ---
 
@@ -65,6 +64,7 @@ This project focuses on analyzing **global COVID-19 data** using **Python (Jupyt
    ```bash
    pip install -r requirements.txt
 ture  
+
 
 
 
