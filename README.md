@@ -11,7 +11,7 @@
 
 ## 🚀 Project Overview  
 
-This project focuses on analyzing **global COVID-19 data** using **Python (Jupyter Notebook)** for data cleaning, preprocessing, and exploration, and **PowerBi** for creating interactive dashboards.  
+This project focuses on analyzing ** COVID-19 data** using **Python (Jupyter Notebook)** for data cleaning, preprocessing, and exploration, and **PowerBi** for creating interactive dashboards.  
 
 ✨ **Objective:** To identify key patterns, visualize global trends, and provide insights on the spread of COVID-19.  
 
