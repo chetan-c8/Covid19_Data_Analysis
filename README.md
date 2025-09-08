@@ -11,7 +11,7 @@
 
 ## 🚀 Project Overview  
 
-This project focuses on analyzing **global COVID-19 data** using **Python (Jupyter Notebook)** for data cleaning, preprocessing, and exploration, and **Tableau** for creating interactive dashboards.  
+This project focuses on analyzing **global COVID-19 data** using **Python (Jupyter Notebook)** for data cleaning, preprocessing, and exploration, and **PowerBi** for creating interactive dashboards.  
 
 ✨ **Objective:** To identify key patterns, visualize global trends, and provide insights on the spread of COVID-19.  
 
@@ -23,7 +23,7 @@ This project focuses on analyzing **global COVID-19 data** using **Python (Jupyt
 |-------------------|-----------------|
 | Programming       | 🐍 Python |
 | IDE               | 📓 Jupyter Notebook |
-| Visualization     | 📊 Tableau |
+| Visualization     | 📊 PowerBi |
 | Libraries Used    | `pandas`, `matplotlib`, `numpy`, `seaborn`, `plotly` |
 
 ---
@@ -34,7 +34,7 @@ This project focuses on analyzing **global COVID-19 data** using **Python (Jupyt
 
 ✅ Data cleaning & preprocessing using **pandas & numpy**  
 ✅ Exploratory Data Analysis (**EDA**) using **matplotlib, seaborn, and plotly**  
-✅ Built **interactive Tableau dashboards** for better visualization  
+✅ Built **interactive Power BI dashboards** for better visualization  
 ✅ Analyzed **confirmed cases, recoveries, and deaths across countries**  
 ✅ Identified **top affected regions and trends over time**  
 
@@ -52,7 +52,7 @@ This project focuses on analyzing **global COVID-19 data** using **Python (Jupyt
 - 📅 Daily/Monthly trends of cases, recoveries, and deaths  
 - 🏥 Most affected countries and regions  
 - 📉 Comparison between **recovery rates** and **fatality rates**  
-- 📊 Interactive Tableau visualizations for real-time insights  
+- 📊 Interactive Power BI visualizations for real-time insights  
 
 ---
 
